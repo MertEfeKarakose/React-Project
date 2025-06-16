@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# You Can Download "Public" directory in Google Drive https://drive.google.com/drive/folders/15JVFEATHAGOFyiW42YM54tF0WMdt77Au?usp=sharing
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
